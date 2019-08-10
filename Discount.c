@@ -8,7 +8,6 @@ int main()
    {
        tcost=tcost+cost;
        temp=((cost*disc)/100);
-       printf("%f",temp);
        tempcost=(int)temp;
        cost=tempcost;
        if(cost==1)
